@@ -9,5 +9,5 @@
 + Java: [Учебные проекты](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java), [Проект сетевого чата](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java/Lesson7_JavaFXChat)
 
 ### Сертификаты:
-+ Нетология: 
++ Нетология: [Сертификат](https://netology.ru/backend/api/user/programs/22497/pdf_certificate)
 + Geekbrains: [Сертификат](https://gb.ru/certificates/1616011.pdf)
