@@ -9,5 +9,5 @@
 + Java: [Учебные проекты](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java), [Проект сетевого чата](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java/Lesson7_JavaFXChat)
 
 ### Сертификаты:
-+ Нетология: [Программист на JavaScript](https://netology.ru/backend/api/user/programs/22497/pdf_certificate)
-+ Geekbrains: [Java-программист](https://gb.ru/certificates/1616011.pdf)
++ Нетология: [Программист на JavaScript](https://drive.google.com/file/d/1cN_FHrMv5rEXSXj0PxVZfynvdUZvLXmh/view?usp=sharing)
++ Geekbrains: [Java-программист](https://drive.google.com/file/d/1d_ZvNv-WoZCh1YIrZBWD8KaJzu67txis/view?usp=sharing)
