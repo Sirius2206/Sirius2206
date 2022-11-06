@@ -1,12 +1,12 @@
 ## Добрый день! 
 
-Меня зовут Галкин Сергей, в данный момент обучаюсь Frontend-разработке и React.js
+Меня зовут Галкин Сергей, начинающий frontend-разработчик(React), и Javascript, программист
 
 ### Коротко о моих навыках:
 
 + HTML5 + CSS3: [Дипломная работа](https://github.com/Sirius2206/mq-diploma), [Сайт](https://sirius2206.github.io/mq-diploma/)
 + JavaScript: [Учебные проекты](https://github.com/Sirius2206/JS_in_WEB), Игра [Pacman](https://github.com/Sirius2206/Pacman)
-+ React:[Hangman](https://github.com/Sirius2206/Hangman) -  Первый проект с использованием Typescript.
++ React: [Hangman](https://github.com/Sirius2206/Hangman) -  Первый проект с использованием Typescript.
 + Java: [Учебные проекты](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java), [Проект сетевого чата](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java/Lesson7_JavaFXChat)
 
 ### Сертификаты:
