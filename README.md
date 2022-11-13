@@ -6,7 +6,7 @@
 
 + HTML5 + CSS3: [Дипломная работа](https://github.com/Sirius2206/mq-diploma), [Сайт](https://sirius2206.github.io/mq-diploma/)
 + JavaScript: [Учебные проекты](https://github.com/Sirius2206/JS_in_WEB), Игра [Pacman](https://github.com/Sirius2206/Pacman)
-+ React: [Hangman](https://github.com/Sirius2206/Hangman)
++ React: [Hangman](https://github.com/Sirius2206/Hangman), [Дипломная работа](https://github.com/Sirius2206/BosaNoga)
 + Java: [Учебные проекты](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java), [Проект сетевого чата](https://github.com/Sirius2206/portfolio/tree/master/portfolio/GB-Java/Lesson7_JavaFXChat)
 
 ### Сертификаты:
